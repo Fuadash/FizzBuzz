@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "FIEFJWCKSHV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fuadash/FizzBuzz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fuadash/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/Fuadash/FizzBuzz#readme"
+}
